@@ -1,0 +1,11 @@
+{
+       "CONTROLADOR": "REMOTO",
+       "SCREENSHOT": {
+              "ESTATUS": false,
+              "NOMBRE_SCREEN": "screen_1"
+       },
+       "INICAR_DIRECCIONAMIENTO": {
+              "ESTATUS": false,
+              "RUTA": ""
+       }
+}
